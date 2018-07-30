@@ -1,0 +1,115 @@
+#EXTM3U
+
+
+#EXTINF:0,*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0,https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0,*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0,https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0,CINE MUNDO | SD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65643.m3u8
+#EXTINF:0,CINE SKY | SD
+http://212.8.250.12:25461/live/carmelo/1234/9725.m3u8
+#EXTINF:0,CINEMAX | HD
+http://212.8.250.12:25461/live/carmelo/1234/156.m3u8
+#EXTINF:0,CINEMAX | SD
+http://212.8.250.12:25461/live/carmelo/1234/257.m3u8
+#EXTINF:0,CINEMUNDO | HD
+http://212.8.250.12:25461/live/carmelo/1234/369.m3u8
+#EXTINF:0,CINEMUNDO | SD
+http://212.8.250.12:25461/live/carmelo/1234/370.m3u8
+#EXTINF:0,DISCOVERY THEATER | HD
+http://212.8.250.12:25461/live/carmelo/1234/14323.m3u8
+#EXTINF:0,DISCOVERY THEATER | SD
+http://212.8.250.12:25461/live/carmelo/1234/149.m3u8
+#EXTINF:0,DISCOVERY THEATER | SD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/88099.m3u8
+#EXTINF:0,FOX MOVIES | HD
+http://212.8.250.12:25461/live/carmelo/1234/359.m3u8
+#EXTINF:0,FOX MOVIES | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65646.m3u8
+#EXTINF:0,FOX PREMIUM CINEMA | SD
+http://iptvtool.es:9977/live/jf/iptv/35181.m3u8
+#EXTINF:0,GOSPEL MOVIES TELEVISION | SD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/102997.m3u8
+#EXTINF:0,GOSPEL MOVIES TV | SD
+http://212.8.250.12:25461/live/carmelo/1234/15222.m3u8
+#EXTINF:0,PARAMOUNT | HD
+http://212.8.250.12:25461/live/carmelo/1234/109.m3u8
+#EXTINF:0,PARAMOUNT | SD
+http://212.8.250.12:25461/live/carmelo/1234/207.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68947.m3u8
+#EXTINF:0,TELECINE ACTION | HD
+http://212.8.250.12:25461/live/carmelo/1234/99.m3u8
+#EXTINF:0,TELECINE ACTION | HD
+http://212.8.250.12:25461/live/carmelo/1234/20316.m3u8
+#EXTINF:0,TELECINE ACTION | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68923.m3u8
+#EXTINF:0,TELECINE ACTION | SD
+http://212.8.250.12:25461/live/carmelo/1234/184.m3u8
+#EXTINF:0,TELECINE CULT | HD
+http://212.8.250.12:25461/live/carmelo/1234/100.m3u8
+#EXTINF:0,TELECINE CULT | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68922.m3u8
+#EXTINF:0,TELECINE CULT | SD
+http://212.8.250.12:25461/live/carmelo/1234/183.m3u8
+#EXTINF:0,TELECINE FUN | HD
+http://212.8.250.12:25461/live/carmelo/1234/104.m3u8
+#EXTINF:0,TELECINE FUN | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68921.m3u8
+#EXTINF:0,TELECINE FUN | SD
+http://212.8.250.12:25461/live/carmelo/1234/182.m3u8
+#EXTINF:0,TELECINE PIPOCA | HD
+http://212.8.250.12:25461/live/carmelo/1234/4074.m3u8
+#EXTINF:0,TELECINE PIPOCA | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68920.m3u8
+#EXTINF:0,TELECINE PIPOCA | SD
+http://iptvtool.es:9977/live/jf/iptv/35170.m3u8
+#EXTINF:0,TELECINE PIPOCA | SD
+http://212.8.250.12:25461/live/carmelo/1234/181.m3u8
+#EXTINF:0,TELECINE PREMIUM | HD
+http://212.8.250.12:25461/live/carmelo/1234/102.m3u8
+#EXTINF:0,TELECINE PREMIUM | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68919.m3u8
+#EXTINF:0,TELECINE PREMIUM | SD
+http://iptvtool.es:9977/live/jf/iptv/35169.m3u8
+#EXTINF:0,TELECINE PREMIUM | SD
+http://212.8.250.12:25461/live/carmelo/1234/178.m3u8
+#EXTINF:0,TELECINE TOUCH | HD
+http://212.8.250.12:25461/live/carmelo/1234/101.m3u8
+#EXTINF:0,TELECINE TOUCH | SD
+http://iptvtool.es:9977/live/jf/iptv/35168.m3u8
+#EXTINF:0,TELECINE TOUCH | SD
+http://212.8.250.12:25461/live/carmelo/1234/180.m3u8
+#EXTINF:0,TELECINE TOUCH | SD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/68918.m3u8
+#EXTINF:0,TV CINE 1 | HD
+http://212.8.250.12:25461/live/carmelo/1234/383.m3u8
+#EXTINF:0,TV CINE 1 | SD
+http://212.8.250.12:25461/live/carmelo/1234/384.m3u8
+#EXTINF:0,TV CINE 2 | HD
+http://212.8.250.12:25461/live/carmelo/1234/381.m3u8
+#EXTINF:0,TV CINE 2 | SD
+http://212.8.250.12:25461/live/carmelo/1234/382.m3u8
+#EXTINF:0,TV CINE 3 | SD
+http://212.8.250.12:25461/live/carmelo/1234/380.m3u8
+#EXTINF:0,TV CINE 4 | HD
+http://212.8.250.12:25461/live/carmelo/1234/377.m3u8
+#EXTINF:0,TVCINE 1 | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65611.m3u8
+#EXTINF:0,TVCINE 1 | SD
+http://sutverduz.com:8080/live/baris1308/13082017/2788.m3u8
+#EXTINF:0,TVCINE 2 | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65634.m3u8
+#EXTINF:0,TVCINE 3 | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65633.m3u8
+#EXTINF:0,TVCINE 3 | SD
+http://sutverduz.com:8080/live/baris1308/13082017/2790.m3u8
+#EXTINF:0,TVCINE 4 | HD
+http://landiptv.live:8080/live/vMyPYU3t0/o70Jt4jK0u/65632.m3u8
+#EXTINF:0,TVCINE 4 | SD
+http://sutverduz.com:8080/live/baris1308/13082017/2791.m3u8
